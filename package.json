@@ -1,0 +1,13 @@
+{
+  "name": "codigo-402",
+  "version": "1.0.0",
+  "scripts": {
+    "cuentas": "node --env-file-if-exists=.env crear-cuentas.js",
+    "usdc": "node --env-file=.env conseguir-usdc.js",
+    "pagar": "node --env-file=.env primer-pago.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@stellar/stellar-sdk": "17.4.0"
+  }
+}
