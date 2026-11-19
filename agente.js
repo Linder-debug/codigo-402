@@ -9,7 +9,7 @@ import {
 } from "./estado-agente.js";
 
 // Bloque 1 usa 1, bloque 2 usa 2 y bloque 3 usa 3.
-const ETAPA = 1;
+const ETAPA = 2;
 const API = "http://localhost:3001/dato";
 const LIMIT = ETAPA >= 2 ? (process.env.TOPE ?? "$0.02") : "$0.02";
 if (!/^\$\d+(\.\d{1,7})?$/.test(LIMIT)) throw errorSeguro("TOPE_INVALIDO");
