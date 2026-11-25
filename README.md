@@ -19,3 +19,8 @@ El cliente pagó 0.01 USDC de prueba en Stellar Testnet para consultar `GET /dat
 - Hash del pago del agente: 142fe781a7d4811c3d3436714d38c8333e771315ffa4c09f420fbb4650d85d28
 - Verlo: https://stellar.expert/explorer/testnet/tx/142fe781a7d4811c3d3436714d38c8333e771315ffa4c09f420fbb4650d85d28
 - Rechazo por tope probado: 0 firmas, 0 envíos. Reintentos con API caída comprobados: 3 intentos, 0 firmas, 0 envíos.
+
+## Mi verificador · Sesión 4
+
+- Pago que verifiqué con RPC: 56ad4636836de4efa6e2d4371838b8a7f931cdd6d99f2b661fee122ed5e5ffd7
+- Verlo: https://stellar.expert/explorer/testnet/tx/56ad4636836de4efa6e2d4371838b8a7f931cdd6d99f2b661fee122ed5e5ffd7
